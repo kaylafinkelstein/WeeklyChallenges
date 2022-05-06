@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kfink\\Source\\Repos\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj": {}
+    "C:\\Users\\kfink\\source\\repos\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kfink\\Source\\Repos\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj": {
+    "C:\\Users\\kfink\\source\\repos\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kfink\\Source\\Repos\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj",
+        "projectUniqueName": "C:\\Users\\kfink\\source\\repos\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj",
         "projectName": "ChallengesWithTestsMark8",
-        "projectPath": "C:\\Users\\kfink\\Source\\Repos\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj",
+        "projectPath": "C:\\Users\\kfink\\source\\repos\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj",
         "packagesPath": "C:\\Users\\kfink\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kfink\\Source\\Repos\\WeeklyChallenges\\ChallengesWithTestsMark8\\obj\\",
+        "outputPath": "C:\\Users\\kfink\\source\\repos\\WeeklyChallenges\\ChallengesWithTestsMark8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kfink\\AppData\\Roaming\\NuGet\\NuGet.Config",
